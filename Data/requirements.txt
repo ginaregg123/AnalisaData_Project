@@ -1,0 +1,4 @@
+NumPy version: 1.26.0
+Pandas version: 2.1.1
+Seaborn version: 0.13.0
+plotly==5.18.0
