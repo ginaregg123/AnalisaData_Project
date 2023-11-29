@@ -10,7 +10,7 @@ import pandas as pd
 import streamlit as st
 import plotly.express as px
 
-my_df = pd.read_csv('Project_dicoding.csv')
+my_df = pd.read_csv('https://raw.githubusercontent.com/ginaregg123/AnalisaData_Project/main/Dashboard/Project_dicoding.csv')
 df = my_df[['year', 'month', 'day','hour','PM2.5','PM10','CO','O3','TEMP','PRES','DEWP','station']]
 df['date'] = df['day'].astype(str) + '/' + df['month'].astype(str) + '/' + df['year'].astype(str)
 
