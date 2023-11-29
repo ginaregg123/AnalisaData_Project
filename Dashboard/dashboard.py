@@ -23,6 +23,8 @@ st.set_page_config(page_title="Air Quality Dashboard",
 st.sidebar.image("https://hlassets.paessler.com/common/files/graphics/iot/sub-visual_iot-monitoring_air-quality-monitoring-v1.png")
 
 st.sidebar.header("Filter:")
+
+st.caption('Copyright (c) Reggina Indriani Putri Suwarsono 2023')
 st_filter = st.sidebar.multiselect(
     "Station:",
     options=df["station"].unique(),
