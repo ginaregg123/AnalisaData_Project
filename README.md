@@ -1,5 +1,3 @@
-# AnalisaData_Project
-
 # How to Run Streamlit Dashboard
 Pastikan Anda telah menginstal semua library yang diperlukan sebelum menjalankan aplikasi.
 
