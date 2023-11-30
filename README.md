@@ -17,5 +17,5 @@ streamlit run dashboard.py
 ## View Dashboard Directly
 Pada dasboard, Anda dapat secara langsung mengamati tren polusi udara, mulai dari partikel PM2.5, partikel PM10, Karbon Monoksida (CO), dan konsentrasi Ozon (O3) di setiap stasiun. Semakin besar nilai senyawa-senyawa ini, semakin buruk kualitas udaranya. Selain itu, dasbor ini juga menyediakan informasi tentang penyakit yang bisa timbul akibat kualitas udara yang buruk.
 
-## Link Stremlit
+## Link Streamlit
 Here's the link: https://project-air-quality-reggina-indriani.streamlit.app/
